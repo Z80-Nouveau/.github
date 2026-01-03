@@ -21,4 +21,4 @@ For each repo in the Z80-Retro github organization, you will find a *git tag*
 with the same date-code in it that matches the given videos that are focused on
 that repo.  (Click on the tags link in any given repo to see them all.)
 
-The purpose of this tagging to allow the project to evolve without disorienting anyone that joins in well after the project has begun.
+The purpose of this tagging is to allow the project to evolve without disorienting anyone that joins in after the project has begun.
